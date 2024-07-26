@@ -1,0 +1,96 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=repo.maven.apache.org
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2023 Q4
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Dec 17 17:51:14 2023 GMT; NotAfter: Jan 17 17:51:13 2025 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2023 Q4
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jul 19 03:42:29 2023 GMT; NotAfter: Jul 19 00:00:00 2025 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGazCCBVOgAwIBAgIQAXLAZBooKf1RECf2cHoYsTANBgkqhkiG9w0BAQsFADBY
+MQswCQYDVQQGEwJCRTEZMBcGA1UEChMQR2xvYmFsU2lnbiBudi1zYTEuMCwGA1UE
+AxMlR2xvYmFsU2lnbiBBdGxhcyBSMyBEViBUTFMgQ0EgMjAyMyBRNDAeFw0yMzEy
+MTcxNzUxMTRaFw0yNTAxMTcxNzUxMTNaMCAxHjAcBgNVBAMMFXJlcG8ubWF2ZW4u
+YXBhY2hlLm9yZzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANPmLVYJ
+BGGMOeAuuZ07bhuezPK0BZM8ymGvPeQG6dtqMFX+jvGcEOElXFIf1EJlYT8OjUfg
+lhaocC3x4yOIAwpJOeKMTtKSp+hN+qrEU0gk9Suny8JmZ6gheTs+p+AomcQTWANX
+twEomanUoAaBEHDG/z8zNISygPgkchnZwWhTZ9X+2utXNfQTM51G0rnYu0igYIdZ
+7LRcUoyGU1v2rfSjzJN+maHeXvHcuXCZulaxsw2NP0nHNu57IPNxvTr3edxpN6v+
+3QKxIE61gr0RqSrpS1mCkeqZBO23Wgz2+rC14efTNkFdVJodg4A8ffHtIbemo6RY
+Wd3Cdr7WoX3SYqkCAwEAAaOCA2cwggNjMCAGA1UdEQQZMBeCFXJlcG8ubWF2ZW4u
+YXBhY2hlLm9yZzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMB0GA1UdDgQWBBQ93URT65FichWIWGvbb0ze7R/3OjBXBgNVHSAE
+UDBOMAgGBmeBDAECATBCBgorBgEEAaAyCgEDMDQwMgYIKwYBBQUHAgEWJmh0dHBz
+Oi8vd3d3Lmdsb2JhbHNpZ24uY29tL3JlcG9zaXRvcnkvMAwGA1UdEwEB/wQCMAAw
+gZ4GCCsGAQUFBwEBBIGRMIGOMEAGCCsGAQUFBzABhjRodHRwOi8vb2NzcC5nbG9i
+YWxzaWduLmNvbS9jYS9nc2F0bGFzcjNkdnRsc2NhMjAyM3E0MEoGCCsGAQUFBzAC
+hj5odHRwOi8vc2VjdXJlLmdsb2JhbHNpZ24uY29tL2NhY2VydC9nc2F0bGFzcjNk
+dnRsc2NhMjAyM3E0LmNydDAfBgNVHSMEGDAWgBSqEXGPlcRYmIuxbg87UGgkvLgZ
+vDBIBgNVHR8EQTA/MD2gO6A5hjdodHRwOi8vY3JsLmdsb2JhbHNpZ24uY29tL2Nh
+L2dzYXRsYXNyM2R2dGxzY2EyMDIzcTQuY3JsMIIBfAYKKwYBBAHWeQIEAgSCAWwE
+ggFoAWYAdQBOdaMnXJoQwzhbbNTfP1LrHfDgjhuNacCx+mSxYpo53wAAAYx451Jd
+AAAEAwBGMEQCIBeejHrzGcl7Lrb5L8rhhOHlQni26PF1aEXfYZZvNFIaAiAj+WJH
+9iQ/rPI57uHhkw/WwjxmnNY1GpAj2NGfH54k5AB2AD8XS0/XIkdYlB1lHIS+DRLt
+kDd/H4Vq68G/KIXs+GRuAAABjHjnUkMAAAQDAEcwRQIhANFI48P8IfmKY+LexiUL
+7aV0UUCumQ4eQH0t3W4nnmSXAiBNdz0s6QmJHZiMVUbmBSxMGGhOgXAalRm1fkJ2
+fuuuoAB1AM8RVu7VLnyv84db2Wkum+kacWdKsBfsrAHSW3fOzDsIAAABjHjnUvEA
+AAQDAEYwRAIgQlPixnbAxCpnRSKQwGV8x8+tzGinHCZK4C0ev3Y3mtYCIDsUGpNZ
+WNQloNm7+QPlwtM2uEvebTbG0iYbjh6bQ2cVMA0GCSqGSIb3DQEBCwUAA4IBAQCU
+rFNxKOcxSnxT1tRnETEdGTdSPV13FDH2kOA+14QMftTo0UuXohXTXTSBpFbD+Mir
+XzQJ9la1/nIFFoKJxqWd4pXNDy+aJMT+x1023gJX7nsXOls7o4NdoqYlRgjdO1/G
+ResQyq1CE0lnvbb+ZXqQrva23HJOM2V3/03EBWhdOr5Ph4jL7ALAuPxiiyrdKgtJ
+28cYCdu/XDVutVC0QBCoqmcqTkFSr7Up+2iks65+uLZDOT8Rs6LcuQb6ZPX5mue5
+47OVj7OKR84KKErsEK+XmNOGetRTsIg8N2BH0zWgXqxGU4a+IxFE48I7fCNxNCPB
+/1GMGmU7FoOXyZCK8DOw
+-----END CERTIFICATE-----
+subject=CN=repo.maven.apache.org
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2023 Q4
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3472 bytes and written 414 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: AAC1CCA75DB285369E5A8B2CCF26089891C98C21D8BBBC6E68961697F18132C4
+    Session-ID-ctx: 
+    Master-Key: 16D11A5D0BC608F032E81F35EB9210C6C05B5649DDCDB64E5AC79DB077D2894C529885841CF99EAFDD3CAB16143075C0
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 6f 93 72 a9 3b aa bf 6c-c5 3a 77 67 64 73 52 4f   o.r.;..l.:wgdsRO
+    0010 - ed fa 7a 80 fd bd 0c 7f-d6 e4 bc f6 ae 3c 36 26   ..z..........<6&
+    0020 - ec bd 1c e9 3c 24 70 83-32 59 4b 19 d5 ec af 64   ....<$p.2YK....d
+    0030 - 1a ad 6d d4 1d 19 ad 54-85 3c 7c bc d6 f4 7a 48   ..m....T.<|...zH
+    0040 - 99 51 55 61 d1 92 c3 ab-0e 44 03 25 e2 06 d5 b4   .QUa.....D.%....
+    0050 - 13 aa 17 d4 dd b1 08 97-cd f4 6f c0 c2 54 90 47   ..........o..T.G
+    0060 - 2e 0b 6f a2 bd be 28 e7-df 4c 36 e4 6a 2e 75 32   ..o...(..L6.j.u2
+    0070 - bb 71 2d 47 8d d0 32 a3-97 70 84 5a c5 d7 e4 9e   .q-G..2..p.Z....
+    0080 - 7d a1 97 2f 9d a6 2c 91-b9 26 4f a1 27 3c 52 b7   }../..,..&O.'<R.
+    0090 - d0 a0 86 e4 dc d6 d9 df-36 f0 71 f9 84 bd 6e 31   ........6.q...n1
+    00a0 - 80 54 1f 4d 07 ed 87 08-d0 31 87 43 87 43 6c 4b   .T.M.....1.C.ClK
+    00b0 - 81 f8 f8 2e 30 bc 81 99-80 1f 0f ae fe 18 45 a5   ....0.........E.
+
+    Start Time: 1722030736
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

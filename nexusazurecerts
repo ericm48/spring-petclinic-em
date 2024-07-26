@@ -1,0 +1,81 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:CN=nexus.azure.csp-si-tiger.net
+   i:C=US, O=Let's Encrypt, CN=R3
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: RSA-SHA256
+   v:NotBefore: May  8 17:23:29 2024 GMT; NotAfter: Aug  6 17:23:28 2024 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEOjCCAyKgAwIBAgISBClrxkQlEnhPtJHZxNk3ih/HMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yNDA1MDgxNzIzMjlaFw0yNDA4MDYxNzIzMjhaMCcxJTAjBgNVBAMT
+HG5leHVzLmF6dXJlLmNzcC1zaS10aWdlci5uZXQwWTATBgcqhkjOPQIBBggqhkjO
+PQMBBwNCAAS6tEpC9ncO9Mx5RVoAKCaiggDPz9OcKqJp0ndYk8pmJq+guVY+isC0
+xgD9hUfeqfsbnpl4uzxArQzRG+dfD8wno4ICHjCCAhowDgYDVR0PAQH/BAQDAgeA
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0G
+A1UdDgQWBBTotGLjD9wPAGFWpJPjK1ZN/GO2LjAfBgNVHSMEGDAWgBQULrMXt1hW
+y65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6
+Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iu
+b3JnLzAnBgNVHREEIDAeghxuZXh1cy5henVyZS5jc3Atc2ktdGlnZXIubmV0MBMG
+A1UdIAQMMAowCAYGZ4EMAQIBMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAPxdL
+T9ciR1iUHWUchL4NEu2QN38fhWrrwb8ohez4ZG4AAAGPWXI75wAABAMARzBFAiAY
+m6fG+w4+tyzmm2LHHjb76HnBk4vRk/aUbWPSxGNNnQIhAOpCZ23lqJpA6Ru8pg6i
+3aE50VMhwbqqhzVbo0ysit7YAHYA3+FW66oFr7WcD4ZxjajAMk6uVtlup/WlagHR
+wTu+UlwAAAGPWXI8qQAABAMARzBFAiBiZ0ReNAM2INSNDLUHl59I6H+PfHJQO6vx
+mCk7zx6YzAIhAM22mCekGlIENBI6+zwXR2RYYUQld2xms4i3Wd2j1OBPMA0GCSqG
+SIb3DQEBCwUAA4IBAQBNVHk6RyneNnvCsfJqmKgTIHrT4Ezpq0xz4I43V0GWksAM
+f2g/lhO3uyd5tArDNJ3MzPuUDkE7Rqo3FB1CCpDyJVfEiIp6mGuJHdYTUn9a1eIg
+0l31UOGMQJTaoHpCx5wX/LX/rdRXdUfQF5I/GLmOFKjQxvQ53OouFY5uNf9SK+kC
+ikUUW/t7LEiASpQ/EFsP6uittJxSbnB6lfQRn2rSc+VlDIcqtWiWV6NVkaXVNoXv
+DgSsw/eaXNw4/Or2RhbbbCmuz94BzohB6jghcNcytV24rYfPgx/Bckz8rYoIqZQF
+dGVQyzy6nqItRGepjm1pvO6JZ8MR8rTJkCDLkRSo
+-----END CERTIFICATE-----
+subject=CN=nexus.azure.csp-si-tiger.net
+issuer=C=US, O=Let's Encrypt, CN=R3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 1578 bytes and written 429 bytes
+Verification error: unable to verify the first certificate
+---
+New, TLSv1.2, Cipher is ECDHE-ECDSA-AES256-GCM-SHA384
+Server public key is 256 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-ECDSA-AES256-GCM-SHA384
+    Session-ID: E1929278968BCEAADDD750269704FF175ED5185B1BE65D4602B24215E7ED5547
+    Session-ID-ctx: 
+    Master-Key: 4F202D8F8EAAF33AF7F7E6372A31250B94A39D4C90B85D67B27E2582BB99518B1692B998309DA839227492C97EC6466C
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - 8b 89 ae 69 5e 97 a6 4f-fb 37 54 95 55 1c 9f ce   ...i^..O.7T.U...
+    0010 - 17 51 17 db d2 3d 83 1a-b0 c2 b0 12 ac e8 e4 2b   .Q...=.........+
+    0020 - d3 4a e8 cd 53 ab a9 f5-4a 16 7a 9d 90 cc 7d d0   .J..S...J.z...}.
+    0030 - a4 79 2f b1 00 0e 15 55-30 4a 79 46 d0 9a 2d cd   .y/....U0JyF..-.
+    0040 - 35 50 ea 98 90 1b d3 d6-e7 10 ea 4d 40 bb e5 84   5P.........M@...
+    0050 - 4d 17 c7 70 84 07 59 42-33 80 d6 c4 96 29 e4 4b   M..p..YB3....).K
+    0060 - 03 c4 a3 96 fd 72 f1 00-15 fb cb a9 d0 05 cd 40   .....r.........@
+    0070 - b2 58 1e 18 e4 a7 0f 1a-c5 36 11 cd 7b 6f ae 94   .X.......6..{o..
+    0080 - 81 d9 c7 8a e8 d8 25 c2-c4 d7 09 df ff 60 07 f1   ......%......`..
+    0090 - d9 10 b9 30 63 d2 4e 5d-a8 db fa 0e fb 38 5c ff   ...0c.N].....8\.
+    00a0 - 09 49 e5 83 c8 eb 57 bd-74 50 3f 9f 3c ef 04 9a   .I....W.tP?.<...
+    00b0 - e0 d4 ed d6 4d 0e 0e 55-0f 73 88 cd e5 8f 6c 70   ....M..U.s....lp
+    00c0 - 76 c0 46 8c 57 63 ae 51-23 6c 11 67 34 82 37 33   v.F.Wc.Q#l.g4.73
+
+    Start Time: 1722030752
+    Timeout   : 7200 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
+    Extended master secret: yes
+---

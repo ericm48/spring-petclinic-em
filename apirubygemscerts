@@ -1,0 +1,102 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:CN=rubygems.org
+   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2024 Q2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jun  1 17:53:31 2024 GMT; NotAfter: Jul  3 17:53:30 2025 GMT
+ 1 s:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2024 Q2
+   i:OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan 17 03:24:32 2024 GMT; NotAfter: Jan 17 00:00:00 2026 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGmjCCBYKgAwIBAgIQAfab5nhqgmexydThQTi6jjANBgkqhkiG9w0BAQsFADBY
+MQswCQYDVQQGEwJCRTEZMBcGA1UEChMQR2xvYmFsU2lnbiBudi1zYTEuMCwGA1UE
+AxMlR2xvYmFsU2lnbiBBdGxhcyBSMyBEViBUTFMgQ0EgMjAyNCBRMjAeFw0yNDA2
+MDExNzUzMzFaFw0yNTA3MDMxNzUzMzBaMBcxFTATBgNVBAMMDHJ1YnlnZW1zLm9y
+ZzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKP0cxHaoLkluiXX2EUU
+steOWwLzViKvUtqu0QqxIizjnLmuAr33PX5KzwrAGihgm6PI2QhcMoY/gZAevy/7
+8zSmbs/MlAASN/fJDxoxYaNbgFBTA5/eLbezHp0TLsSNTZwBm1yqD6kUPGEV/WBT
+OicubmOKFMH5G24JOytaN0l2ce1HrgZEeXXvAJumfSSpWk4ZwnYt4cWkOBMMkAC9
+VH6Wzzi706KBTgRKvXX0oPMJENLmfNKyCiH7WlapqVrO0wKVxmx+/AOU17I211U5
+7IEQS2Duc9qOliWkHCcwUGlDBYOc4D+4L0zCGnfFB1DgjmWdfuFrltxqhHti6xIP
+LZkCAwEAAaOCA58wggObMFUGA1UdEQROMEyCDHJ1YnlnZW1zLm9yZ4IOKi5ydWJ5
+Z2Vtcy5vcmeCFiouc3RhZ2luZy5ydWJ5Z2Vtcy5vcmeCFHN0YWdpbmcucnVieWdl
+bXMub3JnMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwHQYDVR0OBBYEFAHiwRtkKiLln+/7EmTUc0A2AOWAMFcGA1UdIARQME4w
+CAYGZ4EMAQIBMEIGCisGAQQBoDIKAQMwNDAyBggrBgEFBQcCARYmaHR0cHM6Ly93
+d3cuZ2xvYmFsc2lnbi5jb20vcmVwb3NpdG9yeS8wDAYDVR0TAQH/BAIwADCBngYI
+KwYBBQUHAQEEgZEwgY4wQAYIKwYBBQUHMAGGNGh0dHA6Ly9vY3NwLmdsb2JhbHNp
+Z24uY29tL2NhL2dzYXRsYXNyM2R2dGxzY2EyMDI0cTIwSgYIKwYBBQUHMAKGPmh0
+dHA6Ly9zZWN1cmUuZ2xvYmFsc2lnbi5jb20vY2FjZXJ0L2dzYXRsYXNyM2R2dGxz
+Y2EyMDI0cTIuY3J0MB8GA1UdIwQYMBaAFK8NAtDDG55Y+O83Yi3nA12eQUqKMEgG
+A1UdHwRBMD8wPaA7oDmGN2h0dHA6Ly9jcmwuZ2xvYmFsc2lnbi5jb20vY2EvZ3Nh
+dGxhc3IzZHZ0bHNjYTIwMjRxMi5jcmwwggF/BgorBgEEAdZ5AgQCBIIBbwSCAWsB
+aQB3AN3cyjSV1+EWBeeVMvrHn/g9HFDf2wA6FBJ2Ciysu8gqAAABj9TvbHQAAAQD
+AEgwRgIhAInPplYQPHxE/QtANkAdQZzYTaI2hlt7Zn9cpMzPTIY0AiEA5QRwAHMM
+XHSVh7YO9ZVD7V60HLsqAyAw8M3otM8vA3sAdgDm0jFjQHeMwRBBBtdxuc7B0kD2
+loSG+7qHMh39HjeOUAAAAY/U72zKAAAEAwBHMEUCIQCc6998xv3fVyn+67eFgYZU
+O/HdUUzBsAVyQlwKTTsYewIgV1+VeYBU7s9RjGJeT2wc4ESPJCdUpMWbm+NC+Kh0
+V4cAdgAN4fIwK9MNwUBiEgnqVS78R3R8sdfpMO8OQh60fk6qNAAAAY/U7217AAAE
+AwBHMEUCIQD0h0WWqslq81DzAsH8V59I6NVQKH+T/sA3iFJzIi/ypAIgePTeUwcZ
+6kGaBXIO7W5NobfBGylOwQElW+Za8ZCHzMAwDQYJKoZIhvcNAQELBQADggEBAB6L
+WjON6zv5v26KO3UMvMnGLay8ueZr0iK3DUjItMmsQRX0EyLFhS8YH3rectUDPUJW
+48vXFSrPUVgp0Fy5OQ6BcnoAqB+16YsYoLGVkPvb0ozyTcC5eRfuMJocLTDSDNUV
+dx5dYytQUoSCAwP08proY/VWT4G9lf7t246dTkHzhbp5xnAB12cYrSbpBrS4ZBEp
+98jLmOllbA+IXuFWbKlSb5nX25gCXtf4hIDgFLUzmX6SakqMdT0YqWLxJ+SPuBEr
+ybq47YyYQky/HRyF6SIRk3u2H5xJ0CapheNyOuGtsxOiqX8gLEfef3cTBycTcTnQ
+BUfk1FamBOrqBOxsBeQ=
+-----END CERTIFICATE-----
+subject=CN=rubygems.org
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2024 Q2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3415 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: A89566AEDE4BFB33DF51A06BED0F8E604E18F3F46445CB8A6504AFAD9FC460D7
+    Session-ID-ctx: 
+    Resumption PSK: 4961CDAFCBEB8C240949D5E48F3BB15E3F195E8C500E7838CF000EBA36B5BE49
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 3600 (seconds)
+    TLS session ticket:
+    0000 - 6f 93 72 a9 3b aa bf 6c-c5 3a 77 67 64 73 52 4f   o.r.;..l.:wgdsRO
+    0010 - 2d 79 dd cb 89 ea 2e 79-aa 0c 21 2b 90 f4 3d 53   -y.....y..!+..=S
+    0020 - 41 f8 9c 80 c0 c8 ae bf-c7 e7 97 e5 58 0f 0f d9   A...........X...
+    0030 - ba d5 d5 f0 a2 e1 ae c6-c8 90 28 bc 48 9b 8f c5   ..........(.H...
+    0040 - 97 c7 b2 2f 3d 56 4e da-1f b3 95 55 e3 26 ba 97   .../=VN....U.&..
+    0050 - fe 73 f4 e3 f6 8c 8a 28-d6 80 34 f9 08 f3 2d 97   .s.....(..4...-.
+    0060 - 0b 1c a2 70 8e d5 90 7b-30 53 43 2c 73 2d 4c 65   ...p...{0SC,s-Le
+    0070 - 9a 24 18 61 71 a2 7e da-6e 4a 45 5f 2a 46 1e a1   .$.aq.~.nJE_*F..
+    0080 - 90 dc ed f2 ad 89 63 3a-88 41 63 2b ad e4 f2 30   ......c:.Ac+...0
+    0090 - e9 cb d2 47 38 11 35 79-1c 8a 1e 3d df 4c db 18   ...G8.5y...=.L..
+
+    Start Time: 1722030749
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

@@ -1,0 +1,89 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=California, L=San Francisco, O=Cloudflare, Inc., CN=gradle.org
+   i:C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: ecdsa-with-SHA256
+   v:NotBefore: Mar 10 00:00:00 2024 GMT; NotAfter: Dec 31 23:59:59 2024 GMT
+ 1 s:C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+   i:C=IE, O=Baltimore, OU=CyberTrust, CN=Baltimore CyberTrust Root
+   a:PKEY: id-ecPublicKey, 256 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan 27 12:48:08 2020 GMT; NotAfter: Dec 31 23:59:59 2024 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFETCCBLagAwIBAgIQBaWF+60U6i63g3s4Be+qmTAKBggqhkjOPQQDAjBKMQsw
+CQYDVQQGEwJVUzEZMBcGA1UEChMQQ2xvdWRmbGFyZSwgSW5jLjEgMB4GA1UEAxMX
+Q2xvdWRmbGFyZSBJbmMgRUNDIENBLTMwHhcNMjQwMzEwMDAwMDAwWhcNMjQxMjMx
+MjM1OTU5WjBqMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQG
+A1UEBxMNU2FuIEZyYW5jaXNjbzEZMBcGA1UEChMQQ2xvdWRmbGFyZSwgSW5jLjET
+MBEGA1UEAxMKZ3JhZGxlLm9yZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJ3x
+9jkzfIkwYPG9amageqAWgHfY+0kjL/uO5vMfUSQS0SAl7BZ9/qofcu6UfJpeszmD
+r7nOkU+nnkRlDi90TN2jggNcMIIDWDAfBgNVHSMEGDAWgBSlzjfq67B1DpRniLRF
++tkkEIeWHzAdBgNVHQ4EFgQUKEtwx87inMs/IGOYs/oMglF+d2cwIwYDVR0RBBww
+GoIMKi5ncmFkbGUub3JnggpncmFkbGUub3JnMD4GA1UdIAQ3MDUwMwYGZ4EMAQIC
+MCkwJwYIKwYBBQUHAgEWG2h0dHA6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAOBgNV
+HQ8BAf8EBAMCA4gwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMHsGA1Ud
+HwR0MHIwN6A1oDOGMWh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9DbG91ZGZsYXJl
+SW5jRUNDQ0EtMy5jcmwwN6A1oDOGMWh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9D
+bG91ZGZsYXJlSW5jRUNDQ0EtMy5jcmwwdgYIKwYBBQUHAQEEajBoMCQGCCsGAQUF
+BzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wQAYIKwYBBQUHMAKGNGh0dHA6
+Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9DbG91ZGZsYXJlSW5jRUNDQ0EtMy5jcnQw
+DAYDVR0TAQH/BAIwADCCAX0GCisGAQQB1nkCBAIEggFtBIIBaQFnAHUA7s3QZNXb
+Gs7FXLedtM0TojKHRny87N7DUUhZRnEftZsAAAGOJmXRJQAABAMARjBEAiAAs0Qw
+9+/nQNaCBtMFiaRQstequEOG+14mprB0GnWLjAIgZVfyvKiljtnbWbEy0h5n7xCw
+hlhCySCJbzG2otBpZ/8AdQDatr9rP7W2Ip+bwrtca+hwkXFsu1GEhTS9pD0wSNf7
+qwAAAY4mZdFaAAAEAwBGMEQCIFbMxrBd1DYtJmLZpFAhUHgdcDVEUrnmrgbwEJIv
+G/3qAiAVfZgmcN5BjqaI2R6GSOk57zRGsXV/5Lpo6dYp7BG8RgB3AD8XS0/XIkdY
+lB1lHIS+DRLtkDd/H4Vq68G/KIXs+GRuAAABjiZl0ZcAAAQDAEgwRgIhAK1eOPSc
+dFeYp9lEX9T2qFCZ+UFMHpD0dxOFWhdTymGXAiEAoGhxGIhMeYwGfj1SKAgma0JD
+heMtMCKxv9qmT/h/rE0wCgYIKoZIzj0EAwIDSQAwRgIhAJ8TxukrrVW/7krFd0fd
+5BQbowgpkAD1ELHsQnTPRsEmAiEAkel2wa4fqfz58rnEYxkQ3CQ2xvJFWItoojMI
+JKepqvU=
+-----END CERTIFICATE-----
+subject=C=US, ST=California, L=San Francisco, O=Cloudflare, Inc., CN=gradle.org
+issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2747 bytes and written 411 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-ECDSA-CHACHA20-POLY1305
+Server public key is 256 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-ECDSA-CHACHA20-POLY1305
+    Session-ID: A0F6274C9C995200E015C03A12FCC995A5FD269F9661A7D7E19EF640C15204D4
+    Session-ID-ctx: 
+    Master-Key: 328A95668D6C188A099C7320CD805783160CD7D027E9EDDB765694BD1F20B52CCD1AF537A97C1425141F0E0160D9AF95
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 64800 (seconds)
+    TLS session ticket:
+    0000 - f5 21 d7 79 0f 87 14 26-54 ce f3 ef 02 df bd ee   .!.y...&T.......
+    0010 - 31 c1 02 b2 e2 30 ee 15-04 ad 7d c8 0d 96 cf 25   1....0....}....%
+    0020 - 88 18 63 c9 ef c9 c2 d7-09 78 d7 a9 62 ef f4 ac   ..c......x..b...
+    0030 - e5 39 6c d7 83 e3 1e 77-87 8a d8 05 09 0d 6c 8c   .9l....w......l.
+    0040 - b4 01 6c a4 ea c6 e2 70-65 0c 37 31 40 64 a7 3c   ..l....pe.71@d.<
+    0050 - 3b 4c 4b d5 85 03 ca 68-fb e3 b6 47 8a c7 31 fe   ;LK....h...G..1.
+    0060 - 08 5c e5 ca f6 4b 88 47-42 f3 71 75 b1 d2 af 68   .\...K.GB.qu...h
+    0070 - b7 70 48 ba 43 40 4b dc-a9 c2 f5 ea 32 f9 25 e5   .pH.C@K.....2.%.
+    0080 - b7 00 73 a0 76 37 10 16-a6 a2 95 ca c3 4f fc 2a   ..s.v7.......O.*
+    0090 - be 4a 3a 9a 91 f8 fb a9-9f 10 b8 77 f1 3d 4c f3   .J:........w.=L.
+    00a0 - de 35 dd 02 d0 64 56 af-10 f7 a4 1d 30 a5 f1 43   .5...dV.....0..C
+    00b0 - a6 a4 7f 22 6f 59 33 a1-c7 ad f5 2a 37 59 b7 89   ..."oY3....*7Y..
+
+    Start Time: 1722030760
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
